@@ -20,7 +20,7 @@
     <string name="pizza_preview">Pizza preview</string>
 
     <string name="small_size">Small($6.99)</string>
-    <string name="medium_size">Medium(7.99)</string>
+    <string name="medium_size">Medium($7.99)</string>
     <string name="default_size">Large(By Default:$9.99)</string>
     <string name="extra_large_size">Extra Large($11.99)</string>
     <string name="size_of_pizza">"Size of Pizza: "</string>
