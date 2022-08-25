@@ -29,9 +29,9 @@ data class Pizza(
 
     fun pizzaPrices() {
         pizzaPrice = when(pizzaSize){
-            "Small" -> 6.99
-            "Medium" -> 7.99
-            "Extra Large" -> 11.99
+            "Small($6.99)" -> 6.99
+            "Medium($7.99)" -> 7.99
+            "Extra Large($11.99)" -> 11.99
             else -> 9.99
         }
     }
